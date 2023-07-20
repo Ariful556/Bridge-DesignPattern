@@ -26,6 +26,7 @@ public class Application {
                 shape.fillColor();
                 break;
 
+
             case BLUE_TRIANGLE:
                 shape = new Triangle(new BlueColor());
                 shape.fillColor();
